@@ -1,0 +1,4 @@
+name: DoorLocks
+version: '${project.version}'
+main: de.artus.doorlocks.DoorLocks
+api-version: 1.19
