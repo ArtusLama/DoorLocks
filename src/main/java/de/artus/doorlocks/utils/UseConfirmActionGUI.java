@@ -1,2 +1,9 @@
-package de.artus.doorlocks.utils;public interface UseConfirmActionGUI {
+package de.artus.doorlocks.utils;
+
+public interface UseConfirmActionGUI {
+
+
+    void onActionSuccess();
+    void onActionFail();
+
 }
